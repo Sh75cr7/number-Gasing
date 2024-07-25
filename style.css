@@ -1,0 +1,51 @@
+.container{
+    background-color: rgb(211, 53, 53);
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+h1{
+    color: black;
+    text-align: center;
+ padding-top: 10px;
+
+}
+.box1,.box2{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 250px;
+    padding-top: 20px;
+    font-weight: 600;
+    font-size: 20px;
+   
+}
+button{
+    text-decoration: none;
+    color: #FFFFFF;
+    background-color: #06C279;
+    border-radius: 5px;
+    padding: 15px 25px;
+    font-weight: 600;
+    font-size: 16px;
+    border: 1px solid transparent;
+    display: inline-block;
+   
+}
+input{
+    width: 50%;
+    padding: 12px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+.error{
+    color: red;
+    text-align: center;
+}
+.box2{
+    display: none;
+}
+.result{
+    color: #06C279;
+}
